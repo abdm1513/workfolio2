@@ -9,7 +9,7 @@ const Hero = () => {
     <div className="pb-20 pt-36">
       {/**
        *  UI: Spotlights
-       *  Link: https://ui.aceternity.com/components/spotlight
+       *  Link: https://ui.aceternity.com/components/Spotlight
        */}
       <div>
         <Spotlight
